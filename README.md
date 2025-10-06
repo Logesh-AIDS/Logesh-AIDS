@@ -1,27 +1,93 @@
-# 💫 About Me:
-# Hi there 👋, I'm Logesh!  <br><br>💻 Passionate about **Software Development & Competitive Programming**  <br>📚 Pursuing **Artificial Intelligence & Data Science**  <br>🚀 Exploring **Web Development | Gen AI | Cloud | DevOps**  <br>🎯 Goal: Become a **Top Software Developer & Problem Solver**  <br>🌱 Currently learning **Data Structures, Algorithms & Full-Stack Development**  <br>⚡ Fun fact: I love mixing **logic + creativity** to build impactful projects  <br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Logesh+Alavandhan;AI+%26+Data+Science+Undergrad;Aspiring+Data+Scientist+%7C+Frontend+Developer;Future+Tech+Entrepreneur+🚀" alt="Typing SVG" />
+</p>
 
+<h3 align="center">2nd Year B.Tech - Artificial Intelligence & Data Science</h3>
+<h4 align="center">Frontend Developer | Data Enthusiast | Building Ideas That Matter 💡</h4>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sego_lh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Logesh Alavandhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:logeshdev21@gmail.com) 
+<p align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" height="250" alt="Coding GIF">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Logesh-AIDS&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Logesh-AIDS&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-AIDS&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Logesh-AIDS&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Logesh-AIDS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=logeshalavandhan&label=Profile%20views&color=00F5FF&style=flat" alt="logeshalavandhan" /> 
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Logesh-AIDS&icon=4&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🧠 **AI & Data Science student** exploring the blend of **data, logic, and creativity**  
+- 💻 Currently learning **Full Stack Development & Machine Learning**  
+- 🔬 Working on projects like **Enisai (AI Voice Recommendation System)** and **Smart Bus Tracking**  
+- 💡 Dream: Build a **startup that shapes tech education & innovation in India**  
+- 🎯 Goal: Crack a **FAANG-level role (₹1.4 Cr+)** in the next 12 months  
+- 🌱 Passionate about **psychology, finance, and software engineering**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/logeshalavandhan" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/logesh.alavandhan" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/logeshalavandhan" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="50" width="50" />
+  </a>
+</p>
+
+---
+
+## 🧩 Languages & Tools
+
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=250&lines=Frameworks+%26+Libraries)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=200&lines=Tools)](https://git.io/typing-svg) |
+| ----- | ----- | ----- |
+| <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java" title="C, C++, Python, Java" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express" title="React, Tailwind, Node.js, Express" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" title="Git, GitHub, VSCode, Figma" /></div> |
+
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=250&lines=Databases)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=250&lines=Operating+Systems)](https://git.io/typing-svg) |
+| ----- | ----- |
+| <div align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" title="MySQL, MongoDB" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=linux,windows" title="Linux, Windows" /></div> |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logeshalavandhan&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=logeshalavandhan&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logeshalavandhan&theme=2077" height="180em" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=logeshalavandhan&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshalavandhan&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 📘 **Data Structures & Algorithms in C++**
+- ⚙️ **SQL + DBMS + DSA for interviews**
+- 🌐 **Frontend frameworks (React, TailwindCSS)**
+- 🧩 **Machine Learning (Scikit-learn, Pandas, Numpy)**
+
+---
+
+## 💬 Favorite Quote
+
+> “The ones who are crazy enough to think they can change the world, are the ones who do.” – *Steve Jobs*
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<p align="center">
+  <img src="https://media1.tenor.com/images/9c4f9e4c7b3bde55a33bb5cba6750b24/tenor.gif?itemid=19019116" width="200" />
+</p>
