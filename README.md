@@ -1,93 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Logesh+Alavandhan;AI+%26+Data+Science+Undergrad;Aspiring+Data+Scientist+%7C+Frontend+Developer;Future+Tech+Entrepreneur+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=0078FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Logesh" alt="Typing SVG" />
 </p>
 
-<h3 align="center">2nd Year B.Tech - Artificial Intelligence & Data Science</h3>
-<h4 align="center">Frontend Developer | Data Enthusiast | Building Ideas That Matter 💡</h4>
 
+<h3 align="center">Full Stack && DSA Enthusiastic</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=SoftWare+Development+Engineer+1;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
+</h2>
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" height="250" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamlashkari&label=Profile%20views&color=0e75b6&style=flat" alt="prathamlashkari" /> </p>
+ 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=logeshalavandhan&label=Profile%20views&color=00F5FF&style=flat" alt="logeshalavandhan" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Logesh-AIDS&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Logesh-AIDS GitHub Trophies" />
+  </a> 
 </p>
 
----
 
-## 🚀 About Me
-
-- 🧠 **AI & Data Science student** exploring the blend of **data, logic, and creativity**  
-- 💻 Currently learning **Full Stack Development & Machine Learning**  
-- 🔬 Working on projects like **Enisai (AI Voice Recommendation System)** and **Smart Bus Tracking**  
-- 💡 Dream: Build a **startup that shapes tech education & innovation in India**  
-- 🎯 Goal: Crack a **FAANG-level role (₹1.4 Cr+)** in the next 12 months  
-- 🌱 Passionate about **psychology, finance, and software engineering**
-
----
-
-## 🤝 Connect With Me
-
+<h1 align="center">Connect with me:</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/logeshalavandhan" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/logesh.alavandhan" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/logeshalavandhan" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/pratham-lashkari/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/prathamlashkari/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://codolio.com/profile/Pratham" target="blank">
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="pratham" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://www.codechef.com/users/pratham_110" target="blank">
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+  <a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/Pratham_2521/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/prathamlashkari" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
   </a>
 </p>
+<h3 align="left">Languages and Tools:</h3>
 
----
-
-## 🧩 Languages & Tools
-
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=250&lines=Frameworks+%26+Libraries)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=200&lines=Tools)](https://git.io/typing-svg) |
-| ----- | ----- | ----- |
-| <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java" title="C, C++, Python, Java" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express" title="React, Tailwind, Node.js, Express" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" title="Git, GitHub, VSCode, Figma" /></div> |
-
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=250&lines=Databases)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=false&width=250&lines=Operating+Systems)](https://git.io/typing-svg) |
-| ----- | ----- |
-| <div align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" title="MySQL, MongoDB" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=linux,windows" title="Linux, Windows" /></div> |
-
----
-
-## 📊 GitHub Analytics
-
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) | 
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c" title="Java , Cpp , C"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux" title="React, Redux"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="50" title="IntelliJ"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express" title="Spring-Boot, Node.js"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,ts" title="mongodb, MySQL, Scss"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" title="git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/></a></div> | 
+ 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logeshalavandhan&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=logeshalavandhan&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logeshalavandhan&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Logesh-AIDS&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Logesh-AIDS&theme=2077" height="180em" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=logeshalavandhan&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshalavandhan&show_icons=true&theme=tokyonight" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Logesh-AIDS&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Logesh-AIDS&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logesh-AIDS&theme=2077" height="180em" />
 </p>
 
----
-
-## 🧠 Currently Learning
-
-- 📘 **Data Structures & Algorithms in C++**
-- ⚙️ **SQL + DBMS + DSA for interviews**
-- 🌐 **Frontend frameworks (React, TailwindCSS)**
-- 🧩 **Machine Learning (Scikit-learn, Pandas, Numpy)**
-
----
-
-## 💬 Favorite Quote
-
-> “The ones who are crazy enough to think they can change the world, are the ones who do.” – *Steve Jobs*
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <p align="center">
-  <img src="https://media1.tenor.com/images/9c4f9e4c7b3bde55a33bb5cba6750b24/tenor.gif?itemid=19019116" width="200" />
+  <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=Logesh-AIDS&theme=dark&hide_border=true" />
 </p>
+
+  
