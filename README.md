@@ -209,11 +209,6 @@ const logesh = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=Logesh-AIDS&theme=radical&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0d0d0d&dates=ffffff&sideLabels=DC143C" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-AIDS&layout=compact&theme=radical&hide_border=true&title_color=DC143C&text_color=ffffff&bg_color=0d0d0d&langs_count=8" />
-</p>
-
-<p align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Logesh-AIDS&theme=radical&hide_border=true" />
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Logesh-AIDS&theme=radical&hide_border=true" />
 </p>
