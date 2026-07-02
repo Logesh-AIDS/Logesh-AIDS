@@ -1,73 +1,171 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=0078FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Logesh" alt="Typing SVG" />
-</p>
-
-
-<h3 align="center">Full Stack && DSA Enthusiastic</h3>
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=SoftWare+Development+Engineer+1;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
-</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamlashkari&label=Profile%20views&color=0e75b6&style=flat" alt="prathamlashkari" /> </p>
- 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Logesh-AIDS&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Logesh-AIDS GitHub Trophies" />
-  </a> 
-</p>
-
-
-<h1 align="center">Connect with me:</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratham-lashkari/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/prathamlashkari/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
   
-   <a href="https://codolio.com/profile/Pratham" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="pratham" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-   <a href="https://www.codechef.com/users/pratham_110" target="blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
-  <a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/Pratham_2521/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/prathamlashkari" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey, I'm Logesh Alavandhan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Aspiring+Software+%26+ML+Engineer;DSA+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+SQL;Building+%26+Shipping+Impactful+Projects;Full+Stack+%7C+Machine+Learning+%7C+REST+APIs" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="300" alt="Coding Animation">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Logesh-AIDS&label=Profile%20Views&color=dc143c&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Logesh-AIDS?label=Followers&style=for-the-badge&color=dc143c" alt="GitHub Followers" />
+</p>
+
+---
+
+## 🚀 About Me
+
+Hi, I'm **Logesh**, a final-year B.Tech student at **Kalaignar Karunanidhi Institute of Technology** with a strong interest in software engineering and machine learning. I've been building my skills in DSA, SQL, core computer science subjects, and ML through hands-on projects. I'm eager to start my career in a product-based company where I can learn, contribute, and grow as an engineer.
+
+```javascript
+const logesh = {
+    location: "Tamil Nadu, India",
+    education: "B.Tech - Kalaignar Karunanidhi Institute of Technology",
+    interests: ["Software Engineering", "Machine Learning", "DSA", "Backend Development"],
+    currentlyLearning: ["LLMs", "Transformers", "System Design"],
+    lookingFor: "SDE Opportunities in Product-Based Companies",
+    funFact: "I debug faster when the deadline is closer ⚡"
+};
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Logesh-AIDS&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/logesh-alavandhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/Logesh_DS" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/logeshalamx5u" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/logesh_kit27ad" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://github.com/Logesh-AIDS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
 
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) | 
-| ----- | ---- | ---- | ---- | ---- |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c" title="Java , Cpp , C"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux" title="React, Redux"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="50" title="IntelliJ"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express" title="Spring-Boot, Node.js"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,ts" title="mongodb, MySQL, Scss"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" title="git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/></a></div> | 
- 
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Logesh-AIDS&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Logesh-AIDS&theme=2077" height="180em" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Languages+%7C+Frameworks+%7C+Databases+%7C+ML" alt="Tech Stack" />
+</p>
+
+**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
+
+**Frontend & Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" />
+</p>
+
+**Databases & Caching**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+**ML / AI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  &nbsp;<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/LLMs-DC143C?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+**Tools & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 💼 Featured Project
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Placera+%E2%80%94+Smart+Placement+Portal" alt="Project Title" />
+</p>
+
+<div align="center">
+
+| | |
+|---|---|
+| **Project** | 🤖 **Placera** |
+| **What it does** | Connects skilled students directly with pre-filtered HRs, making campus placement smarter and faster |
+| **Tech Stack** | React • Node.js • Express • MongoDB • REST API |
+| **Highlights** | Smart student-HR matching • Skill-based filtering • Streamlined hiring pipeline |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=DC143C&center=true&vCenter=true&width=400&lines=Real+Stats.+Real+Work." alt="Stats heading" />
 </p>
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Logesh-AIDS&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Logesh-AIDS&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logesh-AIDS&theme=2077" height="180em" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Logesh-AIDS&show_icons=true&theme=radical&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=0d0d0d" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=Logesh-AIDS&theme=radical&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0d0d0d" />
 </p>
 
 <p align="center">
-  <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=Logesh-AIDS&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-AIDS&layout=compact&theme=radical&hide_border=true&title_color=DC143C&text_color=ffffff&bg_color=0d0d0d" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Logesh-AIDS&theme=radical" />
 </p>
 
-  
+---
+
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Logesh-AIDS&theme=react-dark&bg_color=0d0d0d&color=DC143C&line=DC143C&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤖 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/Logesh_DS" target="_blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Logesh_DS&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logesh-AIDS&theme=radical" width="98%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Open+to+SDE+%26+ML+opportunities+%F0%9F%9A%80;Let's+build+something+impactful+together!" alt="Footer" />
+</p>
+
+<p align="center">
+  <i>⭐ If you find my work interesting, feel free to star my repos!</i>
+</p>
+
